@@ -1,9 +1,9 @@
 # windows-public
 
 <!-- release-manager:download -->
-[![Download windows-solagilis 1.0.4](https://img.shields.io/badge/Download-v1.0.4-005FB8?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/solagilis/windows-public/releases/download/v1.0.4/windows-solagilis-win-Setup.exe)
+[![Download windows-solagilis 1.0.5](https://img.shields.io/badge/Download-v1.0.5-005FB8?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/solagilis/windows-public/releases/download/v1.0.5/windows-solagilis-win-Setup.exe)
 
-[windows-solagilis-win-Setup.exe](https://github.com/solagilis/windows-public/releases/download/v1.0.4/windows-solagilis-win-Setup.exe) · Windows installer, version 1.0.4
+[windows-solagilis-win-Setup.exe](https://github.com/solagilis/windows-public/releases/download/v1.0.5/windows-solagilis-win-Setup.exe) · Windows installer, version 1.0.5
 <!-- /release-manager:download -->
 
 <!-- release-manager:about -->
